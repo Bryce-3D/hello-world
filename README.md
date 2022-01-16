@@ -7,3 +7,5 @@ This is Bryce.
 Currently trying to figure out how github works
 <br />
 Still very new to coding so idk a lot of stuff
+
+Imagine 
